@@ -1,6 +1,6 @@
 const timing = {
     "start": {"date": "2020-10-28", "fi": "Aloitusluento", "en": "Mandatory lecture", "common": "12-14 Zoom"},
-    "paja1": {"date": "2020-09-07", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
+   /* "paja1": {"date": "2020-09-07", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
     "paja2": {"date": "2020-09-08", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
     "paja3": {"date": "2020-09-14", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
     "paja4": {"date": "2020-09-15", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
@@ -10,7 +10,7 @@ const timing = {
     "paja9": {"date": "2020-10-05", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
     "paja10": {"date": "2020-10-06", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
     "paja11": {"date": "2020-10-12", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
-    "paja12": {"date": "2020-10-13", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
+    "paja12": {"date": "2020-10-13", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"}, */
     "dl1": {"date": "2020-10-31T01:59:59+02:00", "en": "DL 1", "fi": "DL 1"},
     "dl2": {"date": "2020-11-07T01:59:59+02:00", "en": "DL 2", "fi": "DL 2"},
     "dl3": {"date": "2020-11-14T01:59:59+02:00", "en": "DL 3", "fi": "DL 3"},

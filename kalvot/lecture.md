@@ -1,6 +1,6 @@
 % Datastructures and Algorithms Lab
 % Saska Dönges
-% 2.9.2020
+% 28.10.2020
 
 # Course assistants
 
@@ -10,7 +10,7 @@
 - Contact via e-mail or the course telegram channel
 
 - Telegram channel https://t.me/tkttiralabra/ (will contain discourse in Finnish)
-- Course page https://tiralabra.github.io/2020_p1/en
+- Course page https://tiralabra.github.io/2020_p2/en
 
 # What?
 
@@ -114,6 +114,6 @@
 # Thank you!
 
 - **Welcome to the course!**
-- Most information about the course can be found at: https://tiralabra.github.io/2020_p1/en
+- Most information about the course can be found at: https://tiralabra.github.io/2020_p2/en
     - It's a good idea to read through the entire site!
 - I will stay for a while to answer any questions you may have!

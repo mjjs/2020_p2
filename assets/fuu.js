@@ -1,5 +1,5 @@
 const timing = {
-    "start": {"date": "2020-09-02", "fi": "Aloitusluento", "en": "Mandatory lecture", "common": "12-14 Zoom"},
+    "start": {"date": "2020-10-28", "fi": "Aloitusluento", "en": "Mandatory lecture", "common": "12-14 Zoom"},
     "paja1": {"date": "2020-09-07", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
     "paja2": {"date": "2020-09-08", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
     "paja3": {"date": "2020-09-14", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
@@ -11,15 +11,15 @@ const timing = {
     "paja10": {"date": "2020-10-06", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
     "paja11": {"date": "2020-10-12", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
     "paja12": {"date": "2020-10-13", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
-    "dl1": {"date": "2020-09-05T01:59:59+02:00", "en": "DL 1", "fi": "DL 1"},
-    "dl2": {"date": "2020-09-12T01:59:59+02:00", "en": "DL 2", "fi": "DL 2"},
-    "dl3": {"date": "2020-09-19T01:59:59+02:00", "en": "DL 3", "fi": "DL 3"},
-    "dl4": {"date": "2020-09-26T01:59:59+02:00", "en": "DL 4", "fi": "DL 4"},
-    "dl5": {"date": "2020-10-03T01:59:59+02:00", "en": "DL 5", "fi": "DL 5"},
-    "dl6": {"date": "2020-10-10T01:59:59+02:00", "en": "DL 6", "fi": "DL 6"},
+    "dl1": {"date": "2020-10-31T01:59:59+02:00", "en": "DL 1", "fi": "DL 1"},
+    "dl2": {"date": "2020-11-07T01:59:59+02:00", "en": "DL 2", "fi": "DL 2"},
+    "dl3": {"date": "2020-11-14T01:59:59+02:00", "en": "DL 3", "fi": "DL 3"},
+    "dl4": {"date": "2020-11-21T01:59:59+02:00", "en": "DL 4", "fi": "DL 4"},
+    "dl5": {"date": "2020-11-28T01:59:59+02:00", "en": "DL 5", "fi": "DL 5"},
+    "dl6": {"date": "2020-12-05T01:59:59+02:00", "en": "DL 6", "fi": "DL 6"},
     /*"demo": {"date": "2020-06-24", "fi": "Demotilaisuus", "en": "Demo Session", "common": "12-14 Zoom"},
     "demo2": {"date": "2020-06-24", "fi": "Demotilaisuus", "en": "Demo Session", "common": "16-18 Zoom"},*/
-    "end": {"date": "2020-10-24T23:59:59+02:00", "en": "Final submission", "fi": "Loppupalautus"}
+    "end": {"date": "2020-12-19T23:59:59+02:00", "en": "Final submission", "fi": "Loppupalautus"}
 };
 
 const doodleSent = false;

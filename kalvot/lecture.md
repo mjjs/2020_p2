@@ -1,6 +1,6 @@
 % Datastructures and Algorithms Lab
-% Saska Dönges
-% 28.10.2020
+% Introductory lecture for BSc students
+% Saska Dönges - 28.10.2020
 
 # Course assistants
 

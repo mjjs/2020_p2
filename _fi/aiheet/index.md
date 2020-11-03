@@ -52,7 +52,7 @@ Tietorakenteita on monenlaisia, mikä olisi paras kuhunkin ongelmaan? Vertaile n
 ## Salaus ja Tietoturva
 * Tietoturva on tänä päivänä tärkeämpää kuin koskaan monien toimintojemme siirryttyä verkkoon. Salausta voi tehdä monilla eri tavoin ja moniin käyttötarkoituksiin, oheinen sivusta tarjoaa paljon kokeiltavaa aiheesta: http://rumkin.com/tools/cipher/index.php
 
-* Salauksia ja tiivistyksiä voi myös purkaa. Ylläolevan linkin kautta löydät paljon ideoita - voit myös ryhtyä tutkimaan esimerkiksi merkkein frekvenssejä ja analysoida sitä kautta salattua tiedostoa. Tämä liittyy läheisesti myös Huffmann-tiivistettyyn dataan: http://rumkin.com/tools/cipher/frequency.php
+* Salauksia ja tiivistyksiä voi myös purkaa. Ylläolevan linkin kautta löydät paljon ideoita - voit myös ryhtyä tutkimaan esimerkiksi merkkien frekvenssejä ja analysoida sitä kautta salattua tiedostoa. Tämä liittyy läheisesti myös Huffmann-tiivistettyyn dataan: http://rumkin.com/tools/cipher/frequency.php
 
 
 ## Signaalinkäsittely (kuva, ääni)

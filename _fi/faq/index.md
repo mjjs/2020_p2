@@ -133,7 +133,7 @@ Kaikki paitsi käyttöliittymä, suorituskykytestit ja mahdollisesti tiedostojen
 
 Mitään prosenttimääräisiä tavoitteita ei ole asetettu syystä. On hyvin mahdollista tuottaa 100% kattavuus huonosti testatulle koodille, ja vastaavasti voi olla että 50% kattavuus on täysin riittävä. Yleisesti, mitä korkeampi - sitä parempi.
 
-Kannattaa kirjoittaa mahdollisimman pieniä yksikkötestejä mahdollisimman paljon. Ideana olisi että jos koodissa on virhe, tulisi vähintään yhden testit havaita se, ja virheen kohta koodissa tulisi olla mahdollisimman selkeä.
+Kannattaa kirjoittaa mahdollisimman pieniä yksikkötestejä mahdollisimman paljon. Ideana olisi että jos koodissa on virhe, tulisi vähintään yhden testin havaita se, ja virheen kohta koodissa tulisi olla mahdollisimman selkeä.
 
 ## Mihin suorituskykytestit pitää laittaa?
 

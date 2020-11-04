@@ -66,7 +66,7 @@ Järjestäminen standardikirjaston funktioilla ei ole sallittua, paitsi testi- j
 
 Ei oikeastaan. 
 
-Yksittäisiä satunnaislukuja on helppo generoida vaikka `System.nanoTime() % n` -komennolla. Ja vähän kehittyneempää tarvetta varten ei ole hirvittävän hankalaa totueuttaa esim. "[Mersenne twister](https://en.wikipedia.org/wiki/Mersenne_Twister)".
+Yksittäisiä satunnaislukuja on helppo generoida vaikka `System.nanoTime() % n` -komennolla. Ja vähän kehittyneempää tarvetta varten ei ole hirvittävän hankalaa toteuttaa esim. "[Mersenne twister](https://en.wikipedia.org/wiki/Mersenne_Twister)".
 
 Yleisesti javan random luokan jättämisesestä lopputoteutukseen ei todennäköisesti ihan hirvittävästi rankaista etenkin jos tämä on hyvin perusteltu dokumentaatiossa.
 

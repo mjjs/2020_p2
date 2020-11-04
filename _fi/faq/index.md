@@ -105,7 +105,7 @@ Puhu joka tapauksessa ohjaajan kanssa *ennen ekaa palautusta*!
 
 ## Voiko kieleksi valita Pythonin?
 
-Tämä voi olla jopa suositeltavaa jos aihe on todella hankala. Esimerkiksi neuroverkkoja toteuttaessa on usein hyvä idea käyttää (numpyn) valmiita matriisilaskentakirjastoja jopa loppupalautuksessa. Pythonin valmiita lista/joukko/HashMap toteutusta ei yleensä kannata lähteä korvaamaan, joten projektissa täytyy olla riittävästi sisältöä jopa jos nämä ovat annettu.
+Tämä voi olla jopa suositeltavaa jos aihe on todella hankala. Esimerkiksi neuroverkkoja toteuttaessa on usein hyvä idea käyttää (numpyn) valmiita matriisilaskentakirjastoja jopa loppupalautuksessa. Pythonin valmiita `list`/`set`/`dict` toteutuksia ei yleensä kannata lähteä korvaamaan, joten projektissa täytyy olla riittävästi sisältöä jopa jos nämä ovat annettu.
 
 Joka tapauksessa tätä ei suositella ellei python ole entuudestaan hyvin tuttu (myös testaamisen ja testikattavuuksien generoinnin osalta).
 

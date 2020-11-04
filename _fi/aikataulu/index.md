@@ -10,7 +10,7 @@ permalink: /fi/aikataulu/
 
 Vaikka et olisi tehnyt mitään jollakin tietyllä viikolla, kannattaa viikkoraportti kuitenkin kirjoittaa niin että repositoriossa on muutoksia viikon ajalta. Voit jopa saada pisteitä. Muuten pisteitä tulee automaattisesti 0 vaikka projektista olisi muuten mahdollista saada viikkopisteitä.
 
-Kolmen peräkkäisen viikkon ajan muuttumaton repositorio tulkitan kurssin keskeyttämiseksi!
+Kolmen peräkkäisen viikon ajan muuttumaton repositorio tulkitan kurssin keskeyttämiseksi!
 
 ## Viikko 1:
 
@@ -19,7 +19,7 @@ Kolmen peräkkäisen viikkon ajan muuttumaton repositorio tulkitan kurssin keske
         * Juttele tarvittaessa ohjaajan kanssa. Jos toteutat jonkin valmiista aiheista Javalla ja kaikki on selvää, voit siirtyä suoraan määrittelydokumentin kirjoittamiseen. Jos haluat toteuttaa työn täysin omasta aiheesta tai erikoisemmalla kielellä, kannattaa asiasta jutella ennen palautuksen tekemistä.
     * Tustustu kurssimateriaaliin. Lue ainakin [dokumentaatio-ohjeet](../dokumentaatio/) tarkkaan.
     * Dokumentaatio: Määrittelydokumentti valmis.
-    * **<span style="color:red;">TÄRKEÄÄ!</span>** Muista kirjoittaa määrittelydokumenttiin opinto-ohjelmasi ja projekin kieli!
+    * **<span style="color:red;">TÄRKEÄÄ!</span>** Muista kirjoittaa määrittelydokumenttiin opinto-ohjelmasi ja projektin kieli!
     * Viikkoraportti numero 1: Kirjoitettu ensimmäinen viikkoraportti (ks. [Palautukset](../palautukset/))
     * Katso, että repositoriosi etusivulle on linkattu suoraan viikkoraportit (nopeuttaa tarkastusta huomattavasti). Jos tarvitset apua markdownissa, niin katso GitHubin ohje: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/). Saat myös apua jos katsot esimerkiksi miten tämä tiedosto on tehty!
     * Projekti: Projekti luotu. Ohjeita tarvittaessa [täältä](../maven-gradle/). Alustettu versionhallinta (Github). Kaikki palautettava lisätään versionhallintaan, sähköpostilla ei palauteta mitään!
@@ -53,7 +53,7 @@ Kolmen peräkkäisen viikkon ajan muuttumaton repositorio tulkitan kurssin keske
 
 ## Viikko 4:
 
-* Ensimmäiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso [labtoolista](https://study.cs.helsinki.fi/labtool/) linkki katselmoitavaan repoon. **Vertaisarvionnin deadline on sama kuin viikon 5 deadline.**
+* Ensimmäiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso [labtoolista](https://study.cs.helsinki.fi/labtool/) linkki katselmoitavaan repoon. **Vertaisarvioinnin deadline on sama kuin viikon 5 deadline.**
 * Ohjeet vertaisarviointiin [täällä](../vertaisarvioinnit/)
 * Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](../issuet/)
 
@@ -65,7 +65,7 @@ Kolmen peräkkäisen viikkon ajan muuttumaton repositorio tulkitan kurssin keske
 
 ## Viikko 5:
 
-* Toiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso [labtoolista](https://study.cs.helsinki.fi/labtool/) linkki katselmoitavaan repoon. **Vertaisarvionnin deadline on sama kuin DL 6.**
+* Toiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso [labtoolista](https://study.cs.helsinki.fi/labtool/) linkki katselmoitavaan repoon. **Vertaisarvioinnin deadline on sama kuin DL 6.**
 
 * Palautus 5: **<script>document.write(fiString(timing["dl5"].date));</script>**
    * Ensimmäinen vertaisarviointi tehtynä (Löydät linkin katselmoitavaan repoon [labtoolista](https://study.cs.helsinki.fi/labtool/))

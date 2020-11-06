@@ -44,7 +44,7 @@ No repository acitivy for 3 consecutive weeks is usually interpreted as a studen
 # Week 3:
 
 * Submission 3: **<script>document.write(enString(timing["dl3"].date));</script>**
-    * [Documentation](../docuementation/): Written code is clear and commented.
+    * [Documentation](../documentation/): Written code is clear and commented.
     * Week 3 report.
     * Program: Work on implementing core functionality has continued. Possibly started implementing data structures.
     * Testing: *Comprehensive* unit testing of the code.

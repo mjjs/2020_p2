@@ -21,8 +21,8 @@ After the code reviews are started, you will find the project assigned to you fr
 * Familiarize yourself with the code and test as much as possible
 * Also try to run the tests in netbeans
 * Try to understand what each class and method does
-* Be persistant: Some things may be difficult or infeasible to understand, and this is fine!
-* When you are have done all ff the above, it is time to create the feedback. You do not need to provide feedback on the documentation or the visual appareance of the program
+* Be persistent: Some things may be difficult or infeasible to understand, and this is fine!
+* When you are have done all of the above, it is time to create the feedback. You do not need to provide feedback on the documentation or the visual appareance of the program
 
 ## Feedback
 

@@ -8,7 +8,7 @@ permalink: /en/peer_review/
 
 Code reviews are a part of the data structures project. The code reviews are worth 2 points each.
 
-The intention of the code reviewing is to teach code reading comprehension and understnding of project structures. Sadly, code written by other people is not often read on courses, even though good reading comprehension is an essential skill for a developer. A well conducted code review is an excellent way to find problems in programs and to fix issues as early as possible.
+The intention of the code reviewing is to teach code reading comprehension and understanding of project structures. Sadly, code written by other people is not often read on courses, even though good reading comprehension is an essential skill for a developer. A well conducted code review is an excellent way to find problems in programs and to fix issues as early as possible.
 
 ## Guide
 
